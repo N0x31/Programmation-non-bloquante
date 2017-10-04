@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LiftSimulator</string>
+    <string name="floor0">0</string>
+    <string name="floor1">1</string>
+    <string name="floor2">2</string>
+    <string name="floor3">3</string>
+    <string name="floor4">4</string>
+    <string name="floor5">5</string>
+    <string name="floor6">6</string>
+    <string name="floor7">7</string>
+    <string name="floor8">8</string>
+    <string name="floor9">9</string>
+    <string name="etage">Etage : </string>
+    <string name="floor"> 0</string>
+</resources>
